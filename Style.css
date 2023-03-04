@@ -1,0 +1,84 @@
+corpo {
+
+  família da fonte: Arial, sem serifa;
+
+  margem: 0;
+
+}
+
+cabeçalho {
+
+  cor de fundo: #333;
+
+  cor: #fff;
+
+  preenchimento: 20px;
+
+}
+
+nav ul {
+
+  estilo de lista: nenhum;
+
+  margem: 0;
+
+  preenchimento: 0;
+
+}
+
+navegação li {
+
+  exibição: bloco em linha;
+
+  margem direita: 20px;
+
+}
+
+navegar em {
+
+  cor: #fff;
+
+  decoração de texto: nenhum;
+
+}
+
+principal {
+
+  preenchimento: 50px;
+
+  alinhamento de texto: centro;
+
+}
+
+.btn {
+
+  cor de fundo: #4CAF50;
+
+  cor: #fff;
+
+  preenchimento: 10px 20px;
+
+  decoração de texto: nenhum;
+
+  raio da borda: 4px;
+
+}
+
+.btn:hover {
+
+  cor de fundo: #3e8e41;
+
+}
+
+rodapé {
+
+  cor de fundo: #333;
+
+  cor: #fff;
+
+  alinhamento de texto: centro;
+
+  preenchimento: 20px;
+
+}
+
